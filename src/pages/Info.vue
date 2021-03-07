@@ -52,7 +52,7 @@
         | 過去に関わった仕事例
         ul
           li BtoC系サービスのWebアプリケーション（追加実装・設計・テスト）
-          li 観光系サービスのWebアプリケーション新規開発（追加実装・設計・テスト）
+          li 観光系サービスのWebアプリケーション新規開発（新規開発・設計・テスト）
           li 社内システムの保守・開発（追加実装・設計・テスト）
           li 大手SIerの管理システム(データ監視・追加実装・テスト)
           li BtoC系サービスのWebアプリケーション（開発・設計・テスト）
@@ -73,6 +73,10 @@
         .info__text__icon
           img(src='../assets/images/logo.png')
         ul
+          li
+            | はてなブログ：
+            a(href='https://123undo.hatenablog.com/' target='_blank')
+              | ひとつまえにもどる。
           li
             | Twitter：
             a(href='https://twitter.com/123undo' target='_blank')
